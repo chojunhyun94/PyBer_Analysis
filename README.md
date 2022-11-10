@@ -5,6 +5,6 @@ The client wanted me to create a summary for the PyBer app based on the differen
 
 #Results
 The summary statistic based on city type is as follows:
-![summary_by_city_type.png](Images/summary_by_city_type.png)
+![summary_by_city_type.png](Images/summary_by_city_type.PNG)
 
 
